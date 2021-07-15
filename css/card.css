@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+}
+
+.box {
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    height: 600px;
+    width: 600px;
+    background-color: gray;
+    margin-bottom: 20px;
+    border: 5px black solid;
+    margin-top: 50px;
+    /* background-image: url("../img/birdsbg.jpg"); img verschijnt alleen gedeeltelijk*/
+}
+
+.card {
+    width: 300px;
+    padding-top: 30px;
+}
+
+h1 {
+    color: green;
+    text-transform: capitalize;
+
+    /* text-transform: lowercase;
+    text-transform: uppercase; */
+}
+
+h2 {
+    background-color: white;
+    opacity: 0.6;
+    color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+p {
+    color: red;
+    background-color: white;
+    opacity: 0.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 14px;
+
+}
+
+.container {
+    display: flex;
+}
+
+.big-box {
+    position: relative;
+    margin: auto;
+    height: 700px;
+    width: 1000px;
+    background-color: gray;
+    margin-bottom: 50px;
+    border: 5px black solid;
+}
+
+.card2 {
+    width: 400px;
+    /* height: auto; */
+    padding-top: 60px;
+}
+
+.lorem-text2 {
+    margin-top: 70px;
+}
+
+.lorem-text1 {
+    margin-top: 20px;
+    text-align: left;
+    width: 560px;
+    height: 200px;
+    position: absolute;
+    display: inline-block;
+    color: red;
+}
+
+.back-link {
+    margin: auto;
+    height: 50px;
+    width: 600px;
+    background-color: gray;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.first-pg {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 2rem;
+}

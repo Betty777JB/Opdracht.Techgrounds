@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Courier New', monospace;
+}
+ul{
+    font-style: italic;
+}
+.container{
+text-align: center;
+}
+.opdracht1{
+background-color:  #c3cfe2;
+}
+.opdracht3{
+background-color:  #c3cfe2;
+}
+.opdracht5{
+background-color:  #c3cfe2;
+}
+.second-pg {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 3rem;
+}
+li{
+
+    display: list-item;
+    list-style-position: inside; /* bron stackoverflow /ol numbering is not showing(oplossing)*/
+}
