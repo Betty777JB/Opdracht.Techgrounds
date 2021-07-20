@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body{
+body {
     font-family: 'Courier New', monospace;
     font-size: 20px;
 }
@@ -29,7 +29,6 @@ body{
 h1 {
     color: green;
     text-transform: capitalize;
-
     /* text-transform: lowercase;
     text-transform: uppercase; */
 }
@@ -40,7 +39,6 @@ h2 {
     color: red;
     margin-left: 20px;
     margin-right: 20px;
-
 }
 
 p {
@@ -50,7 +48,6 @@ p {
     margin-left: 20px;
     margin-right: 20px;
     font-size: 14px;
-
 }
 
 .container {

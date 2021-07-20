@@ -1,35 +1,41 @@
 * {
     margin: 0;
     padding: 0;
-
 }
 
 body {
     font-family: 'Courier New', monospace;
 }
-ul{
+
+ul {
     font-style: italic;
 }
-.container{
-text-align: center;
+
+.container {
+    text-align: center;
 }
-.opdracht1{
-background-color:  #c3cfe2;
+
+.opdracht1 {
+    background-color: #c3cfe2;
 }
-.opdracht3{
-background-color:  #c3cfe2;
+
+.opdracht3 {
+    background-color: #c3cfe2;
 }
-.opdracht5{
-background-color:  #c3cfe2;
+
+.opdracht5 {
+    background-color: #c3cfe2;
 }
+
 .second-pg {
     color: red;
     font-weight: bold;
     text-decoration: none;
     font-size: 3rem;
 }
-li{
 
+li {
     display: list-item;
-    list-style-position: inside; /* bron stackoverflow /ol numbering is not showing(oplossing)*/
+    list-style-position: inside;
+    /* bron stackoverflow /ol numbering is not showing(oplossing)*/
 }
